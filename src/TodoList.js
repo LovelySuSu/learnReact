@@ -6,7 +6,7 @@ import {
     Title,
     ButtonList,
     Button,
-    List
+    // List
 } from './style'
 
 
