@@ -16,7 +16,7 @@ class TodoList extends Component {
       <div>
         <Header>
             <Logo></Logo>
-            <Title>丁丁的计划表YE!!!!</Title>
+            <Title>丁丁的计划表YE!!</Title>
             <ButtonList>
                 <Button className="current">全部</Button>
                 <Button>已完成</Button>
